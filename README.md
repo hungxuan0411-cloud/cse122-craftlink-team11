@@ -22,4 +22,11 @@ CraftLink mô phỏng một marketplace/creator-commerce có nhiều vai trò, C
 Xem thư mục `docs/` và `design/`.
 
 ## Thiết kế
-Link Canva/Figma của nhóm được ghi tại `design/figma-link.txt`.
+Link Canva/Figma của nhóm được ghi tại:
+-khách hàng :"https://www.canva.com/design/DAHWyBVvS6U/eyYrsvv49jN-26FeiXk-Aw/edit?fbclid=IwY2xjawUt6cZleHRuA2FlbQIxMQBwZG9mA3NydGMGYXBwX2lkATAAAR6m5pzaLugaXdBETnbwwhMyT-dOc20S4nxjpQfTyDCcrS76oqpVDa7FEESgtg_aem_N9HJHoMadFVnYQbfVAkZ1A"
+
+-người sáng tạo:"..."
+
+-kiểm duyệt viên"..."
+
+-quản trị viên"..."
